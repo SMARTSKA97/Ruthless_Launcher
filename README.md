@@ -20,10 +20,9 @@ nano device.mk
  
 # ADD THIS LINE BELOW IT 
 
->PRODUCT_PACKAGES += \
->   Ruthless_Launcher
+>PRODUCT_PACKAGES += `\`
+>`   `Ruthless_Launcher
 
 # Compile and good to go... Enjoy!!!
 
-[link to Google!](http://google.com)
-`<addr>` element here instead.
+
