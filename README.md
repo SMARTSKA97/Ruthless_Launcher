@@ -6,7 +6,7 @@ adding as an system app
 
 >cd packages/apps
 
-> - mkdir Ruthless_Launcher
+>mkdir Ruthless_Launcher
 
 >cd Ruthless_Launcher
 
@@ -18,15 +18,15 @@ adding as an system app
 
 >cd ~
 
-> - cd <working_directory>/device/<manufacturer>/<device_codename>
+>cd <working_directory>/device/<manufacturer>/<device_codename>
 
-> - nano device.mk
+>nano device.mk
  
 # ADD THIS LINE BELOW IT 
 
 >PRODUCT_PACKAGES += `\`
 
-> - Ruthless_Launcher
+>Ruthless_Launcher
 
 # Compile and good to go... Enjoy!!!
 
