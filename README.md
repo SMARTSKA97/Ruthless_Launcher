@@ -10,7 +10,7 @@ cd Ruthless_Launcher
 
 # Clone the git
 
-git clone  
+git clone https://github.com/SMARTSKA97/Ruthless_Launcher.git
 
 # Adding the app package in your device tree
 
