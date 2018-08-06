@@ -4,9 +4,11 @@ adding as an system app
 
 # Make Directory
 
-cd packages/apps
-mkdir Ruthless_Launcher
-cd Ruthless_Launcher
+>cd packages/apps
+
+>mkdir Ruthless_Launcher
+
+>cd Ruthless_Launcher
 
 # Clone the git
 
@@ -14,9 +16,11 @@ cd Ruthless_Launcher
 
 # Adding the app package in your device tree
 
-cd ~
-cd <working_directory>/device/<manufacturer>/<device_codename>
-nano device.mk
+>cd ~
+
+>cd <working_directory>/device/<manufacturer>/<device_codename>
+
+>nano device.mk
  
 # ADD THIS LINE BELOW IT 
 
