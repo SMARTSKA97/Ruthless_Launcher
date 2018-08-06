@@ -1,2 +1,2 @@
 # Ruthless_Launcher
-adding as an app
+adding as an system app
