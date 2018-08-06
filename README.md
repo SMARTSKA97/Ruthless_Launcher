@@ -14,13 +14,13 @@ cd Ruthless_Launcher
 
 # Adding the app package in your device tree
 
-cd
+cd ~
 cd <working_directory>/device/<manufacturer>/<device_codename>
 nano device.mk
  
 # ADD THIS LINE BELOW IT 
 
 PRODUCT_PACKAGES += \
-  Ruthless_Launcher
+   Ruthless_Launcher
 
 # Compile and good to go... Enjoy!!!
